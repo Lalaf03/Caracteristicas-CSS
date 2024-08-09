@@ -1,0 +1,21 @@
+p::before{
+    content: '😱  ';
+}
+
+p::after{
+    content: '  💕';
+}
+
+::placeholder{
+    color: rgb(169, 123, 206);
+    font-weight: bold;
+}
+
+p:hover{
+    color: rgb(16, 146, 146);
+    cursor: pointer;
+}
+
+div p:nth-child(2){
+    color: rgb(119, 201, 4);
+}

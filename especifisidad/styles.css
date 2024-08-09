@@ -1,0 +1,16 @@
+.uaoClass{
+    color: white;
+    width: 100px;
+    height: 100px;
+}
+
+#uaoId{
+    background: aquamarine;
+    width: 200px;
+    height: 200px;
+}
+
+a[href="https://www.uao.edu.co/"]{
+    color: black;
+    /*text-decoration: none;*/
+}
